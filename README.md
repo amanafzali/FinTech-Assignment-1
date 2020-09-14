@@ -30,14 +30,29 @@ This company was founded by a mission to "create an open financial system for th
 
 Per company blog the technologies they are using are "container orchestration platform is Odin + AWS ASGs (auto-scaling groups). When you click Deploy from Codeflow (our internal UI for deployments), Odin is invoked with an API call from Codeflow. Odin kicks off a step function and begins to deploy your application. New VMs are stood up in AWS and loaded into a new ASG, your software is fetched from various internal locations, a load balancer starts health-checking these new instances, and eventually traffic is cut over in a Blue/Green manner to the new hosts in the new ASG behind the load balancer".
 
+Company sets number of values to meet their customers expectation at their best.
+
+![comany values](values.png)
 
 
 ## landscape:
 
+Coinbase falls under Blockchain and Cryptocurrencies domain and of cours its success and growth is directly linked with the evolutions of this domain for the past years. Bitcoin and other cryptocurrencies, evolving of FinTech into Blockchaing, simplicity, less hype and scams the Blockchain and internet, and more investment opportunities are the main trends that this domain came across for the past years.
 
+There are number of other companies in Blockchain and Cryptocurrencies domain a few of them will be mentioned as an example.
 
+* Ripple
+* MakerDAO
+* Axoni
+* Chainalysis
+* Everledger
 
 ## Results:
+
+According to FinTech magazine Coinbase has become one of the world top company in Blockchain and Cryptocurrency domain for enabaling more than 30m customers around the world to use digital currency wallet and platform through which they transact with new digital currencies like Bitcoin, Ehereum and Litecoin. The company aims to be the most trusted and easiest to use however it is only 8 years past from it's birth this is really a rapid growth and huge jump for the company.
+
+![Coinbase pay](pay.png)
+
 
 
 ## Recomendations:
