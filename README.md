@@ -32,7 +32,7 @@ Per company blog the technologies they are using are "container orchestration pl
 
 Company sets number of values to meet their customers expectation at their best.
 
-![comany values](values.png)
+![comany values](https://github.com/amanafzali/FinTech-Assignment-1/blob/master/values.PNG?raw=true)
 
 
 ## landscape:
@@ -51,7 +51,7 @@ There are number of other companies in Blockchain and Cryptocurrencies domain a 
 
 According to FinTech magazine Coinbase has become one of the world top company in Blockchain and Cryptocurrency domain for enabling more than 30m customers around the world to use digital currency wallet and platform through which they transact with new digital currencies like Bitcoin, Ethereum and Litecoin. The company aims to be the most trusted and easiest to use however it is only 8 years past from its birth this is really a rapid growth and huge jump for the company.
 
-![Coinbase pay](pay.png)
+![Coinbase pay](https://github.com/amanafzali/FinTech-Assignment-1/blob/master/pay.PNG?raw=true)
 
  Coinbase was using Kibana and Amazon Elasticsearch Service at the beginning until late 2017 based on increase of the customers and facing problems with Kibana logs the company settled on Datadog metrics platform. So the company used to use Logs at the beginning but later on when more customers signed up they start using Logs and Metrics, the thoughts was that Metrics should be used for dashboards and alerts and Logs should be used as an investigative tool to find root case of an issue. 
 
