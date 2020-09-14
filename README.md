@@ -15,9 +15,9 @@ Coibase is a US California origin company founded in June, 2012 with latest Valu
 * This company Custody now hold $8bn in assets for 200 institutional clients.
 
 
-## Business Activies:
+## Business Activities:
 
-This company was founded by a mission to "create an open financial system for the world controlled neither by company or country, but rather by everyone, and equality of opportunity in the world". **per data provided by the company they have $150B+ Cryptocurrency exchanged in 102 countries and has served over 30m customers**. To bring trust and easy access to Cryptocurrency trading for the wide range of customers the company offers the follwoign products:
+This company was founded by a mission to "create an open financial system for the world controlled neither by company or country, but rather by everyone, and equality of opportunity in the world". **per data provided by the company they have $150B+ Cryptocurrency exchanged in 102 countries and has served over 30m customers**. To bring trust and easy access to Cryptocurrency trading for the wide range of customers the company offers the followign products:
 
 - Coinbase: For buy, sell and use cryptocurrency.
 - Coinbase pro: For advanced cryptocurrency trading.
@@ -37,7 +37,7 @@ Company sets number of values to meet their customers expectation at their best.
 
 ## landscape:
 
-Coinbase falls under Blockchain and Cryptocurrencies domain and of cours its success and growth is directly linked with the evolutions of this domain for the past years. Bitcoin and other cryptocurrencies, evolving of FinTech into Blockchaing, simplicity, less hype and scams the Blockchain and internet, and more investment opportunities are the main trends that this domain came across for the past years.
+Coinbase falls under Blockchain and Cryptocurrencies domain and of course its success and growth is directly linked with the evolutions of this domain for the past years. Bitcoin and other cryptocurrencies, evolving of FinTech into Blockchain, simplicity, less hype and scams the Blockchain and internet, and more investment opportunities are the main trends that this domain came across for the past years.
 
 There are number of other companies in Blockchain and Cryptocurrencies domain a few of them will be mentioned as an example.
 
@@ -49,12 +49,32 @@ There are number of other companies in Blockchain and Cryptocurrencies domain a 
 
 ## Results:
 
-According to FinTech magazine Coinbase has become one of the world top company in Blockchain and Cryptocurrency domain for enabaling more than 30m customers around the world to use digital currency wallet and platform through which they transact with new digital currencies like Bitcoin, Ehereum and Litecoin. The company aims to be the most trusted and easiest to use however it is only 8 years past from it's birth this is really a rapid growth and huge jump for the company.
+According to FinTech magazine Coinbase has become one of the world top company in Blockchain and Cryptocurrency domain for enabling more than 30m customers around the world to use digital currency wallet and platform through which they transact with new digital currencies like Bitcoin, Ethereum and Litecoin. The company aims to be the most trusted and easiest to use however it is only 8 years past from its birth this is really a rapid growth and huge jump for the company.
 
 ![Coinbase pay](pay.png)
 
- Coinbase was using Kibana and Amazon Elasticsearch Service at the begining until late 2017 based on icrease of the custmers and facing problem with Kibana logs the comnpany setled on Datadog metrics platform.
+ Coinbase was using Kibana and Amazon Elasticsearch Service at the beginning until late 2017 based on increase of the customers and facing problems with Kibana logs the company settled on Datadog metrics platform. So the company used to use Logs at the beginning but later on when more customers signed up they start using Logs and Metrics, the thoughts was that Metrics should be used for dashboards and alerts and Logs should be used as an investigative tool to find root case of an issue. 
 
-## Recomendations:
+## Recommendations:
+
+As I went through number of Coinbase customers reviews most of them were happy about the services Coinbase provides, just some of the customers had concern about th higher transaction fees specially when they are not in Coinbase pro they charge comparing to other competitors in the market. Also, some like to see more coins available on the platform and more option for payment methods. My recommendation to company will be to listen to their customers, keep in touch with them and evaluate their needs and expectations. Review other comapanies that they are in the same domain and provide similar services. Based on data and evaluation the company should take some initiatives to meet the highest expectation of their customers.
+
+
+## References:
+
+[FinTech Magazine](https://www.fintechmagazine.com/financial-services/six-world-leading-blockchain-and-cryptocurrency-firms)
+
+[Coinbase](https://www.coinbase.com/)
+
+[Coinbase blog](https://blog.coinbase.com/)
+
+[Forbes](https://www.forbes.com/fintech/2020/#174ffb2a4acd)
+
+[Amazon-aws](https://aws.amazon.com/solutions/case-studies/coinbase/)
+
+[Investopedia](https://www.investopedia.com/tech/coinbase-what-it-and-how-do-you-use-it/)
+
+
+
 
 
