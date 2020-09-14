@@ -53,7 +53,7 @@ According to FinTech magazine Coinbase has become one of the world top company i
 
 ![Coinbase pay](pay.png)
 
-
+ Coinbase was using Kibana and Amazon Elasticsearch Service at the begining until late 2017 based on icrease of the custmers and facing problem with Kibana logs the comnpany setled on Datadog metrics platform.
 
 ## Recomendations:
 
