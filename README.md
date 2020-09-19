@@ -1,4 +1,4 @@
-# Blockchain and Cryptocurrencies Case study
+# Coibase Case study
 
 In recent revolutionary of finTech, legitimacy of Blockchain and Cryptocurrencies acknowledged worldwide. There are  many companies fall under this category Coinbase, Ripple, MakerDAO and list goes on but for now we will review Coinbase in more detail.
 
