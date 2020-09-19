@@ -39,6 +39,7 @@ Coinbase sets number of values for comapny wide activites to meet their customer
 
 Coinbase falls under Blockchain and Cryptocurrencies domain and of course its success and growth is directly linked with the evolutions of this domain for the past years. Bitcoin and other cryptocurrencies, evolving of FinTech into Blockchain, simplicity, less hype and scams the Blockchain and internet, and more investment opportunities are the main trends that this domain came across for the past years.
 
+![landscape](https://github.com/amanafzali/FinTech-Assignment-1/blob/master/about.PNG?raw=true)
 
 
 There are number of other companies in Blockchain and Cryptocurrencies domain a few of them will be mentioned as an example.
